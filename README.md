@@ -31,3 +31,9 @@ Remember to take breaks and avoid multitasking, as this can lead to distractions
 
 # 2023-11-22
 - "Keep it simple, stupid!"
+
+# 2023-11-23
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan beforehand. When starting a new project or working on a complex task, create a plan that outlines the steps needed to complete the task. Knowing what you needto do and when to do it will keep you on track and prevent you from getting lost in the details. Planning also helps you identify potential obstacles and find solutions before they become problems. 
+ ..最后，保持组织。使用版本控制系统（如Git）来管理你的代码，使用任务管理工具（Trello或Jira）跟踪你的任务，并使用日志记录你的工作过程。这将帮助你更容易地找到和修复错误，以及更有效地协作。通过遵循这些最佳实践，你将能够更聪明地编程，成为更有效的程序员。
