@@ -37,3 +37,6 @@ Remember to take breaks and avoid multitasking, as this can lead to distractions
 
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan that outlines the steps needed to complete the task. Knowing what you needto do and when to do it will keep you on track and prevent you from getting lost in the details. Planning also helps you identify potential obstacles and find solutions before they become problems. 
  ..最后，保持组织。使用版本控制系统（如Git）来管理你的代码，使用任务管理工具（Trello或Jira）跟踪你的任务，并使用日志记录你的工作过程。这将帮助你更容易地找到和修复错误，以及更有效地协作。通过遵循这些最佳实践，你将能够更聪明地编程，成为更有效的程序员。
+
+# 2023-11-24
+- "Programming wisdom for today: Always comment your code. Not only does it help you remember what you did, but it also makes it easier for others to understand and maintain your code in the future. Additionally, strive for simplicity and readability in your code. It's better to have clean, easy-to-understand code than to try to show off with complex, convoluted solutions. And finally, always test your code thoroughly before deploying it. Bugs can be costly and time-consuming to fix, so catching them early is essential."
