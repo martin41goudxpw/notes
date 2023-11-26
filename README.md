@@ -43,3 +43,8 @@ Second, always plan beforehand. When starting a new project or working on a comp
 
 # 2023-11-25
 - "Today's programming wisdom is to focus on writing clean, readable, and maintainable code. It's important to remember that code is read more often than it's written, so taking the time to make it easy to understand will pay off in the long run. Additionally, using meaningful variable names, commenting your code, and breaking down complex problems into smaller, more manageable pieces can make a big difference in the readability and maintainability of your code."
+
+# 2023-11-26
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge for programmers to create user-friendly and robust software, while also acknowledging the ever-increasing complexity of technology and the potential for users to make mistakes. It serves as a reminder to continually strive for excellence in programming, while also being mindful of the limitations and unpredictability of human behavior.
