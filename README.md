@@ -106,3 +106,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-12-12
 - Today's programming wisdom is to write code that is easy to understand and maintain. Code should be written with the assumption that someone else will need to read and modify it in the future, so it should be well-documented and follow best practices for naming conventions, organization, and style. Additionally, programmers should strive to write code that is modular and reusable, as this can save time and reduce errors in the long run. Finally, testing is an essential part of the development process, and programmers should write automated tests to ensure that their code works as intended and to catch bugs early on.
+
+# 2023-12-13
+- "Keep it simple, stupid!"
