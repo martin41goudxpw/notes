@@ -168,3 +168,10 @@ In essence, prioritize clarity and readability over unnecessary complexity, as i
 
 # 2023-12-28
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By prioritizing tasks based on their importance and urgency, you can ensure that you are focusing on the right things and making the most of your time. Planning ahead can help to avoid last-minute emergencies and ensure you have enough time to complete all of the necessary tasks. Finally, staying organized by using version control, task management tools, code documentation, etc. can make your life easier and help others to understand and contribute to your code. Remember, good programming is not just about writing code, it' s about managing your workflow and staying focused on what matters.
+
+# 2023-12-29
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest industry trends, tools, and programming languages.
+
+To be successful as a programmer, you should also focus on building a solid foundation in core computer science concepts, such as data structures, algorithms, software engineering, systems architecture, etc. These concepts will not only help you become a more efficient and effective developer but also enable you to adapt to new challenges and technologies more easily. 
+ - 学习新技能，不断更新知识。
+- 在核心计算机科学概念上建立坚实的基础。
