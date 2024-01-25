@@ -310,3 +310,8 @@ Use version control systems, such as Git, to keep track of your code and collabo
 8. Take breaks: While it can be tempting to work non-stop, taking breaks can actually improve your productivity. Schedule short breaks throughout the day, either for a walk, stretching, drinking water, chatting with coworkers, whatever works for you.        
 9. Don't be afraid to ask for help. If you're stuck on a problem or need guidance, don' t be scared to reach out to colleagues, friends, family, online forums, Google, whoever can provide assistance. Remember, knowledge is power, but sometimes, it takes a village to solve a tricky problem.       
 By following these tips, your programming journey will be smoother, efficient, productive, enjoyable, & full of success.
+
+# 2024-01-25
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive to write clear, concise, and readable code. Avoid unnecessary complexity and over-engineering. Always remember that code is read far more often than it is written, so make it easy for others (and your future self) to understand and maintain." 
+
+"Also, 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing correct and maintainable code first; optimize only when it's proven to be a bottleneck. Lastly, embrace version control, test-driven development, and continuous learning as indispensable parts of your programming practice."
